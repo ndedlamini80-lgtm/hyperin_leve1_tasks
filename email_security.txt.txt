@@ -1,0 +1,23 @@
+3 things that should have alleterd me that the email from the bank was not ligimate
+*threat and urgency
+* used "hi" instead of my name
+*unexpected zip file
+
+Yes. It is possible that my computer is infected with malware because  opened the zip folde in the malicious email. An 
+automatic malware could have installed itself when i clicked on the zip folder.
+
+Educating employees about phishing, social engineering, and malware prevention plays a critical role in keeping an
+ organization secure. Many cyberattacks succeed because attackers exploit human behavior rather than technical weaknesses,
+ making employee awareness a key defense.
+Phishing attempts often arrive as emails, text messages, or phone calls that look legitimate and trustworthy. Staff should
+ be taught to carefully review sender details, be cautious of unexpected attachments or links, and watch for poor spelling
+ or unusual wording. If a message asks for sensitive information or urgent action, employees should confirm its 
+authenticity through official company channels before responding.
+Social engineering attacks use psychological pressure, such as urgency, authority, or fear, to manipulate individuals into
+ breaking security rules. Attackers may impersonate managers, IT personnel, or external partners. Training should encourage
+ employees to slow down, question unusual requests, and strictly follow company policies when handling confidential
+ information or access requests.
+Fellow employees can avoid malware infections by practicing safe computing habits at all times. They should only download
+ software and files from trusted, approved sources and avoid clicking on suspicious links or attachments. Keeping devices
+ updated with the latest security patches, using strong passwords, and never disabling antivirus protection is essential. 
+Employees should also avoid using unknown USB devices and report any suspicious activity immediately

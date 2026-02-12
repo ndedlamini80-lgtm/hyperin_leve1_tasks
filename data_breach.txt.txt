@@ -1,0 +1,6 @@
+If the users email adresses and password are licked the user is at high risk of ransomeware , doxing increased 
+phishing and malware.
+
+these are the two actions you can take to protect yourself against the risk of bieng associated with data breaching:
+1.keep systems updated and secure
+2.use unique , strong passwwords
