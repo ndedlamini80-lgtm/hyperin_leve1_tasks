@@ -1,0 +1,21 @@
+# details.py
+
+def get_user_details():
+    name = input("Enter your name: ")
+    age = input("Enter your age: ")
+    house_number = input("Enter your house number: ")
+    street_name = input("Enter your street name: ")
+
+    user_details = {
+        "Name": name,
+        "Age": age,
+        "House Number": house_number,
+        "Street Name": street_name
+    }
+    print(f"{name} is {age} years old and lives at {house_number} {street_name}")
+
+    return user_details
+
+if __name__ == "__main__":
+    details = get_user_details()
+    print(details)
